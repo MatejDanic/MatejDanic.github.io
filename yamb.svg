@@ -1,0 +1,11 @@
+<svg width="64" viewBox="300 150 400 425" xmlns="http://www.w3.org/2000/svg">
+    <rect fill="#FF9F1C" width="200" height="200" rx="16" transform="translate(325, 250) rotate(-30) skewX(30) scale(1, .86062)"/>
+    <circle fill="white" r="22" transform="translate(500, 250) rotate(-30) skewX(30) scale(1, .86062)"/>
+    <rect fill="#FF9F1C" width="200" height="200" rx="16" transform="translate(520, 375) rotate(-30) skewX(-30) scale(1, .86062)"/>
+    <circle fill="white" r="22" transform="translate(575, 400) rotate(-30) skewX(-30) scale(1, .86062)"/>
+    <circle fill="white" r="22" transform="translate(650, 450) rotate(-30) skewX(-30) scale(1, .86062)"/>
+    <rect fill="#FF9F1C" width="200" height="200" rx="16" transform="translate(305, 275) rotate(30) skewX(30) scale(1, .86062)"/>
+    <circle fill="white" r="22" transform="translate(350, 450) rotate(30) skewX(30) scale(1, .86062)"/>
+    <circle fill="white" r="22" transform="translate(387, 425) rotate(30) skewX(30) scale(1, .86062)"/>
+    <circle fill="white" r="22" transform="translate(425, 400) rotate(30) skewX(30) scale(1, .86062)"/>
+</svg>
